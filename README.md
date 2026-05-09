@@ -7,8 +7,6 @@
 **Course project:** Development of a Bricks Breaker game controlled by a simple reinforcement learning algorithm.  
 The project demonstrates autonomous paddle control based on previous game experience.
 
-**Project Completion Date:** 2024  
-
 **Development Tools:** Python, Pygame, Pandas  
 
 **Main Concepts:**  
