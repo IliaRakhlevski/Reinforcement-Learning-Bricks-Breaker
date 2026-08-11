@@ -60,6 +60,8 @@ The algorithm workflow:
 
 The paddle gradually improves its behavior using accumulated experience from previous episodes.
 
+**Note:** This is a simplified, tabular RL approach (state-action success/failure tracking) rather than a full Q-learning or policy-gradient implementation.
+
 ---
 
 ## RL Algorithm Visualization
